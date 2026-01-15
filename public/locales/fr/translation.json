@@ -1,0 +1,134 @@
+{
+  "header": {
+    "home": "Accueil",
+    "packs": "Nos Packs",
+    "method": "Méthode",
+    "about": "À propos",
+    "contact": "Contact",
+    "signUp": "S'inscrire maintenant",
+    "menu": "Menu"
+  },
+  "home": {
+    "title": "Construis ton avenir avec <1>AlphaMind Academy</1>",
+    "subtitle": "Une méthode moderne, structurée et orientée résultats pour réussir tes études et développer des compétences solides pour le futur.",
+    "discoverPacks": "Découvrir les packs",
+    "ourMethod": "Notre méthode",
+    "slide2.title": "Libérez Votre Potentiel",
+    "slide2.subtitle": "Nos méthodes innovantes et nos tuteurs experts sont là pour vous guider vers le succès.",
+    "slide3.title": "Votre parcours vers le succès commence ici",
+    "slide3.subtitle": "Des parcours d'apprentissage personnalisés, des éducateurs expérimentés et une communauté solidaire vous attendent."
+  },
+  "packs": {
+    "title": "Nos Packs Étudiants",
+    "signUp": "S'inscrire maintenant",
+    "items": {
+      "pc_basic": {
+        "description": "Bâtissez des bases solides en Mathématiques et Physique-Chimie pour une réussite assurée."
+      },
+      "pc_gold": {
+        "description": "Une offre complète pour maîtriser les matières scientifiques clés et vous préparer à l'excellence."
+      },
+      "pc_premium": {
+        "description": "Visez les sommets avec une préparation intégrale qui couvre toutes les matières pour un profil complet."
+      },
+      "svt_basic": {
+        "description": "Maîtrisez les concepts clés en Mathématiques et SVT, le duo gagnant de votre filière."
+      },
+      "svt_gold": {
+        "description": "Une offre complète pour maîtriser les matières scientifiques clés et vous préparer à l'excellence."
+      },
+      "svt_premium": {
+        "description": "Une approche complète pour exceller en SVT et briller dans toutes les autres matières de l'examen."
+      }
+    },
+    "subjects": {
+      "math": "Mathématiques",
+      "pc": "Physique-Chimie",
+      "svt": "SVT",
+      "en": "Anglais",
+      "ph": "Philosophie",
+      "islamic": "Éducation Islamique"
+    }
+  },
+  "ways": {
+    "title": "Méthode <1>100% en ligne</1>",
+    "subtitle": "Suivez ces étapes simples pour rejoindre nos packs et commencer votre réussite.",
+    "seePacks": "Voir les packs",
+    "steps": {
+      "1": {
+        "title": "Inscription",
+        "desc": "Inscription de l'élève et des parents (données de contact et filière)."
+      },
+      "2": {
+        "title": "Séance d'essai",
+        "desc": "Une séance d'essai pour découvrir la méthode et rencontrer le professeur."
+      },
+      "3": {
+        "title": "Paiement",
+        "desc": "Paiement sécurisé en ligne pour réserver la place dans le pack choisi."
+      },
+      "4": {
+        "title": "Inscription finale",
+        "desc": "Confirmation finale de l'inscription après vérification du paiement."
+      },
+      "5": {
+        "title": "Accès au pack",
+        "desc": "Accès immédiat aux supports et à la plateforme pour suivre les cours."
+      }
+    }
+  },
+  "about": {
+    "title": "À propos de <1>nous</1>",
+    "subtitle": "Une vision claire, une équipe engagée et une seule mission : aider chaque élève à réussir son baccalauréat avec confiance.",
+    "items": [
+      {
+        "icon": "mission",
+        "title": "Notre mission",
+        "text": "Rendre l’apprentissage accessible, structuré et efficace grâce à des cours de soutien 100% en ligne adaptés au bac."
+      },
+      {
+        "icon": "vision",
+        "title": "Notre vision",
+        "text": "Devenir une référence dans l’accompagnement scolaire en ligne, en mettant la pédagogie et la clarté au cœur de l’enseignement."
+      },
+      {
+        "icon": "values",
+        "title": "Nos valeurs",
+        "text": "Bienveillance, exigence pédagogique et engagement total envers la réussite de nos élèves."
+      }
+    ],
+    "founders": {
+      "title": "Les fondateurs",
+                "items": [
+                  {
+                    "title": "Fondateur 1 – Responsable pédagogique",
+                    "text": "Je suis Houssam El Alami, titulaire d’une licence en Éducation Physique et Sportive et passionné par le développement personnel, le sport et le digital. Fort d’une expérience dans le domaine de l’E-commerce, je combine mes compétences pédagogiques et technologiques pour proposer des solutions innovantes qui favorisent l’apprentissage, la performance et l’épanouissement. Mon objectif est de contribuer à des projets éducatifs et digitaux efficaces, accessibles et orientés vers la réussite."
+                  },
+                  {
+                    "title": "Fondateur 2 – Stratégie & innovation digitale",
+                    "text": "Je suis Yahia Ait ou Hmade, membre fondateur d'AlphaMind Academy. Titulaire d’un Master en Marketing stratégique et communication digitale, je suis passionné par les solutions digitales et les innovations qui facilitent l’apprentissage. Mon engagement est de contribuer à des outils éducatifs accessibles et efficaces pour aider les étudiants à réussir et à développer leur potentiel."
+                  }
+                ]
+    },
+    "cta": "Découvrir nos packs"
+  },
+  "contact": {
+    "title": "Contacte-nous — <1>Nous répondons vite</1>",
+    "subtitle": "Pour toute question sur les packs, les séances d’essai ou le suivi pédagogique : écris-nous ou contacte-nous directement sur WhatsApp. Nous sommes là pour t’aider à réussir.",
+    "emailsTitle": "Emails",
+    "emailsDescription": "Écris-nous pour les questions générales et le support.",
+    "whatsappTitle": "WhatsApp",
+    "whatsappDescription": "Message instantané pour une réponse rapide (horaires: 9h–20h).",
+    "formTitle": "Envoyer un message",
+    "formDescription": "Remplis le formulaire et clique envoyer — on te répondra par email ou WhatsApp.",
+    "namePlaceholder": "Ton nom",
+    "messagePlaceholder": "Ton message",
+    "sendButton": "Envoyer le message",
+    "formFooter": "Tu peux aussi utiliser les emails ou WhatsApp listés à gauche pour une réponse plus rapide.",
+    "responseHours": "Horaires de réponse : 9h — 20h (GMT+1).",
+    "responseTime": "Nous faisons de notre mieux pour répondre sous 24h."
+  },
+  "footer": {
+    "copyright": "© {{year}} <1>Votre Plateforme</1>. Tous droits réservés."
+  }
+}
